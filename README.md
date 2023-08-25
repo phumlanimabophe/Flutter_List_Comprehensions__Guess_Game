@@ -11,7 +11,7 @@ Before running the app, make sure you have Flutter and Dart installed on your sy
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/phumlanimabophe/Flutter_List_Comprehensions__Guess_Game.git
 Navigate to the project directory:
 sh
 Copy code
